@@ -5,6 +5,11 @@
 - 🤔 I’m looking for help with figuring out GitHub and Docker
 - 💬 Ask me about National Cyber League and Try Hack Me
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/barias4641.png" alt="TryHackMe">
+
+
 <!--
 **barias4641/barias4641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
