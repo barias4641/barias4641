@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently enrolled at Riverside City College (Cyber Security AS) and also at Dakota State University (Cyber Operations BS)
+- 🌱 I’m currently in the final year of my Associates Degree at RCC and just starting my journey at Dakota State.
+- 🤔 I’m looking for help with figuring out GitHub and Docker
+- 💬 Ask me about National Cyber League and Try Hack Me
+
 <!--
 **barias4641/barias4641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
